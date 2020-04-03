@@ -7,3 +7,7 @@ Phew, what a week!
 ## A subheader
 
 blah blah
+
+And now, an image
+
+![image i just uploaded](github-new-repo-settings.png)
